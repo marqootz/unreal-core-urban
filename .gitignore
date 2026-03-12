@@ -1,0 +1,49 @@
+# Visual Studio 2015/2017/2019/2022 user specific files
+.vs/
+
+# Visual Studio Code user specific files
+.vscode/
+
+# Rider user specific files
+.idea/
+
+# Built binaries
+Binaries/
+DerivedDataCache/
+
+# Compiled source files
+Intermediate/
+Saved/
+
+# Builds
+Build/
+
+# Crash logs
+*.crashlytics
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Unreal Engine specific
+*.opensdf
+*.sdf
+*.sln
+*.suo
+*.xcodeproj
+*.xcworkspace
+
+# Content Browser metadata
+*.uasset.meta
+*.umap.meta
+
+# Localization
+Content/Localizations/
+
+# Logs
+*.log
